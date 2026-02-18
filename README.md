@@ -1,5 +1,145 @@
-# 💫 About Me:
-# Hi there 👋 I'm Prachi Naik  <br><br>🚀 React Native & Frontend Developer | React.js | Redux Toolkit | API Integration  <br><br>I’m a **React Native and Frontend Developer** with **1+ year of internship experience** in building production-ready mobile applications using **React Native (Expo + CLI), React.js, Redux Toolkit, JavaScript, Tailwind CSS, and REST APIs**.  <br>I love creating modern UI screens, reusable components, and integrating real-world APIs to build scalable applications.<br><br>---<br><br>## 🔭 Currently Working On  <br>- Developing **Trustline App (Fintech Loan Platform)** using **React Native Expo**<br>- Building **Funzo App (Entertainment Platform)** using **React Native CLI**<br>- Working on complete UI + API integration using **Axios + Redux Toolkit**<br>- Handling navigation flows using **React Navigation**<br><br>---<br><br>## 🌱 Currently Learning  <br>- Advanced React Native performance optimization  <br>- Scalable app architecture & clean coding practices  <br>- Deployment and production-ready builds for Play Store  <br>- Improving backend knowledge using **Node.js & Express.js**<br><br>---<br><br>## 👯 Looking to Collaborate On  <br>- React Native mobile apps (Expo / CLI)  <br>- React.js frontend projects  <br>- API-driven applications  <br>- Fintech / Entertainment / E-commerce projects  <br><br>---<br><br>## 💬 Ask Me About  <br>- React Native (Expo + CLI)  <br>- React.js & JavaScript (ES6+)  <br>- Redux Toolkit / createAsyncThunk  <br>- REST API Integration (Axios, Postman, Swagger)  <br>- Tailwind CSS / Styled Components  <br>- React Navigation & Android Permissions  <br><br>---<br><br>## 🛠️ Tech Stack  <br><br>### 📱 Mobile Development  <br>- React Native (Expo + CLI)  <br>- React Navigation  <br>- Android Permissions  <br><br>### 🌐 Frontend Development  <br>- React.js  <br>- JavaScript (ES6+)  <br>- HTML5, CSS3  <br>- Bootstrap, Tailwind CSS  <br><br>### ⚡ State Management  <br>- Redux Toolkit  <br>- Redux  <br>- Context API  <br><br>### 🔗 API & Tools  <br>- REST APIs  <br>- Axios  <br>- Swagger  <br>- Postman  <br><br>### 🗄️ Backend & Database (Basics)  <br>- Node.js  <br>- Express.js  <br>- MongoDB  <br>- SQL  <br><br>### 🧰 Tools  <br>- Git & GitHub  <br>- VS Code  <br>- Vite  <br><br>---<br><br>## 💼 Experience  <br><br>### Frontend Developer Intern (React & React Native)  <br>📍 RescueClick Pvt. Ltd | Pune, India  <br>🗓️ Jun 2025 – Present  <br>- Built complete frontend for **Trustline App (Expo)** and **Funzo App (CLI)**  <br>- Developed responsive screens and reusable UI components  <br>- Integrated REST APIs using **Axios**  <br>- Implemented complete state management using **Redux Toolkit**  <br>- Worked on navigation flows and Android permissions  <br><br>### React Developer Intern  <br>📍 Nucleosys Tech Pvt. Ltd | Pune, India  <br>🗓️ Dec 2024 – May 2025  <br>- Developed responsive websites using HTML, CSS, Bootstrap, and JavaScript  <br>- Converted Figma designs into pixel-perfect UI  <br>- Built forms, modals, tables, navigation menus & fixed UI bugs  <br>- Strengthened React fundamentals (hooks, props, state management)  <br><br>---<br><br>## 📌 Projects  <br><br>### 🚀 Trustline App (React Native Expo - Fintech Loan Platform)  <br>📌 Loan management application with onboarding, dashboards, loan workflows  <br>✅ Redux Toolkit + REST API Integration  <br>🔜 Near launch on Google Play Store  <br><br>### 🎬 Funzo App (React Native CLI - Entertainment Platform)  <br>📌 Entertainment platform with complete UI screens and API-driven modules  <br>✅ Navigation + reusable components + backend integration  <br><br>### 🛒 Add to Cart App (React + Redux)  <br>📌 Shopping cart workflow with Redux state management  <br>✅ Responsive UI updates  <br><br>---<br><br>## 🎓 Education  <br>🎓 Bachelor of Science (Computer Science)  <br>Shiv-Chhatrapati College, Sambhajinagar  <br><br>---<br><br>## 📜 Certifications  <br>- Java Full Stack Developer Certificate  <br>- Internship Certificate – RescueClick Pvt. Ltd  <br>- Internship Certificate – Nucleosys Tech Pvt. Ltd  <br><br>---<br><br>## 📫 Connect With Me  <br>📍 Pune, India  <br>📧 Email: **pn71900@gmail.com**  <br><br>
+# Hi there 👋 I'm Prachi Naik  
+
+🚀 React Native & Frontend Developer | React.js | Redux Toolkit | API Integration  
+
+I’m a **React Native and Frontend Developer** with **1+ year of internship experience** in building production-ready mobile applications using **React Native (Expo + CLI), React.js, Redux Toolkit, JavaScript, Tailwind CSS, and REST APIs**.  
+I love creating modern UI screens, reusable components, and integrating real-world APIs to build scalable applications.
+
+---
+
+## 🔭 Currently Working On  
+- Developing **Trustline App (Fintech Loan Platform)** using **React Native Expo**
+- Building **Funzo App (Entertainment Platform)** using **React Native CLI**
+- Working on complete UI + API integration using **Axios + Redux Toolkit**
+- Handling navigation flows using **React Navigation**
+
+---
+
+## 🌱 Currently Learning  
+- Advanced React Native performance optimization  
+- Scalable app architecture & clean coding practices  
+- Deployment and production-ready builds for Play Store  
+- Improving backend knowledge using **Node.js & Express.js**
+
+---
+
+## 👯 Looking to Collaborate On  
+- React Native mobile apps (Expo / CLI)  
+- React.js frontend projects  
+- API-driven applications  
+- Fintech / Entertainment / E-commerce projects  
+
+---
+
+## 💬 Ask Me About  
+- React Native (Expo + CLI)  
+- React.js & JavaScript (ES6+)  
+- Redux Toolkit / createAsyncThunk  
+- REST API Integration (Axios, Postman, Swagger)  
+- Tailwind CSS / Styled Components  
+- React Navigation & Android Permissions  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 📱 Mobile Development  
+- React Native (Expo + CLI)  
+- React Navigation  
+- Android Permissions  
+
+### 🌐 Frontend Development  
+- React.js  
+- JavaScript (ES6+)  
+- HTML5, CSS3  
+- Bootstrap, Tailwind CSS  
+
+### ⚡ State Management  
+- Redux Toolkit  
+- Redux  
+- Context API  
+
+### 🔗 API & Tools  
+- REST APIs  
+- Axios  
+- Swagger  
+- Postman  
+
+### 🗄️ Backend & Database (Basics)  
+- Node.js  
+- Express.js  
+- MongoDB  
+- SQL  
+
+### 🧰 Tools  
+- Git & GitHub  
+- VS Code  
+- Vite  
+
+---
+
+## 💼 Experience  
+
+### Frontend Developer Intern (React & React Native)  
+📍 RescueClick Pvt. Ltd | Pune, India  
+🗓️ Jun 2025 – Present  
+- Built complete frontend for **Trustline App (Expo)** and **Funzo App (CLI)**  
+- Developed responsive screens and reusable UI components  
+- Integrated REST APIs using **Axios**  
+- Implemented complete state management using **Redux Toolkit**  
+- Worked on navigation flows and Android permissions  
+
+### React Developer Intern  
+📍 Nucleosys Tech Pvt. Ltd | Pune, India  
+🗓️ Dec 2024 – May 2025  
+- Developed responsive websites using HTML, CSS, Bootstrap, and JavaScript  
+- Converted Figma designs into pixel-perfect UI  
+- Built forms, modals, tables, navigation menus & fixed UI bugs  
+- Strengthened React fundamentals (hooks, props, state management)  
+
+---
+
+## 📌 Projects  
+
+### 🚀 Trustline App (React Native Expo - Fintech Loan Platform)  
+📌 Loan management application with onboarding, dashboards, loan workflows  
+✅ Redux Toolkit + REST API Integration  
+🔜 Near launch on Google Play Store  
+
+### 🎬 Funzo App (React Native CLI - Entertainment Platform)  
+📌 Entertainment platform with complete UI screens and API-driven modules  
+✅ Navigation + reusable components + backend integration  
+
+### 🛒 Add to Cart App (React + Redux)  
+📌 Shopping cart workflow with Redux state management  
+✅ Responsive UI updates  
+
+---
+
+## 🎓 Education  
+🎓 Bachelor of Science (Computer Science)  
+Shiv-Chhatrapati College, Sambhajinagar  
+
+---
+
+## 📜 Certifications  
+- Java Full Stack Developer Certificate  
+- Internship Certificate – RescueClick Pvt. Ltd  
+- Internship Certificate – Nucleosys Tech Pvt. Ltd  
+
+---
+
+## 📫 Connect With Me  
+📍 Pune, India  
+📧 Email: **pn71900@gmail.com**  
+📱 Contact: **+91 84838 30877**  
+
+🔗 GitHub: [Your GitHub Link](#)  
+🔗 LinkedIn: [Your LinkedIn Link](#)  
+
+---
+
+⭐ If you like my work, feel free to star my repositories!
 
 
 ## 🌐 Socials:
