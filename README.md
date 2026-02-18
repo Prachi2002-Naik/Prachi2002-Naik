@@ -132,7 +132,6 @@ Shiv-Chhatrapati College, Sambhajinagar
 ## 📫 Connect With Me  
 📍 Pune, India  
 📧 Email: **pn71900@gmail.com**  
-📱 Contact: **+91 84838 30877**  
 
 🔗 GitHub: [Your GitHub Link](#)  
 🔗 LinkedIn: [Your LinkedIn Link](#)  
